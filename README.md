@@ -34,8 +34,8 @@ El pago se puede hacer en efectivo o con Bizum.
 El motivo de que yo considere que es un ejemplo de hibridación es que Wallapop goza de  las características que convierten un medio en un híbrido, ser una combinación de medios ya existentes como las páginas web de segunda mano, mercadillos físicos, dispositivos electrónicos, geolocalización teniendo como resultado una nueva forma de comprar aquello que necesitas y vender lo que ya no, sin necesidad de intermediarios como Cash Converters, de una forma más libre y sin complicaciones.
 
   
+ <iframe width="560" height="315" src="//www.youtube.com/embed/QOdW1OuZ1U0?list=PLol_ykYs3OQ4Zypr1WGaYcSowzoMmcj4G" frameborder="0" allowfullscreen></iframe>
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jUczAzzzPNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
 
 # Caso 2 : AWAI
