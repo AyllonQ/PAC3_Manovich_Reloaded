@@ -1,6 +1,15 @@
-# Introducción
+# PEC 3
+Fecha de publicación: 12-12-2021
+
+Grado Multimedia UOC 2021
+
+Autor: Alberto Ayllón
+
+
+## Introducción
 
 La temática principal de este trabajo es la hibridación de medios, así que primero de todo vamos a introducir su definición.
+
 Según Lev Manovich, la hibridación de medios es una unión de medios ya existentes concibiendo un nuevo medio distinto con algunos rasgos y características de los originales.
 
 ¿Y cómo se pueden reconocer estas hibridaciones? Según lo expuesto en su libro “ El Software toma el mando”(2013) debemos investigar si es en si mismo una nueva manera de representación del medio o si ofrece una nueva experiencia cuando se produce la interacción con el mismo. 
@@ -34,8 +43,7 @@ El pago se puede hacer en efectivo o con Bizum.
 El motivo de que yo considere que es un ejemplo de hibridación es que Wallapop goza de  las características que convierten un medio en un híbrido, ser una combinación de medios ya existentes como las páginas web de segunda mano, mercadillos físicos, dispositivos electrónicos, geolocalización teniendo como resultado una nueva forma de comprar aquello que necesitas y vender lo que ya no, sin necesidad de intermediarios como Cash Converters, de una forma más libre y sin complicaciones.
 
   
- <iframe width="560" height="315" src="//www.youtube.com/embed/QOdW1OuZ1U0?list=PLol_ykYs3OQ4Zypr1WGaYcSowzoMmcj4G" frameborder="0" allowfullscreen></iframe>
-
+[Primer anuncio de la TV para la televisión](https://youtu.be/jUczAzzzPNI)
     
 
 # Caso 2 : AWAI
@@ -60,3 +68,19 @@ Lo primero que tienes que hacer para utilizar AWAI es descargar la aplicación y
 A partir de ese momento, deja el móvil en el salpicadero y ten la app abierta para poder realizar el peaje de forma cómoda. En el momento de acercarte al peaje por las vías señalizadas con el símbolo de AWAI, la barrera se abre y en ese momento recibes el ticket en tu móvil. Es importante que vayas decelerando la velocidad para que le den tiempo a los sensores bluetooth de la autopista a detectar tu móvil.
 
 Creo que según las gafas de Manovich también goza de la hibridación porque proviene de medios ya existentes como el sistema Teletac, los dispositivos electrónicos y la tecnología bluetooth convirtiéndose en una forma de pago más cómoda y sin contactos y que poco a poco se va a ir expandiéndose  de la misma forma que lo hizo el Teletac en su momento. Yo la he probado de primera mano y da una tranquilidad enorme y te despreocupa en todo momento, en caso de que no se levante la barrera, le das con el click al menú de la aplicación y sigues tu ruta como si nada.
+
+[Video explicativo de cómo funciona AWAI](https://www.youtube.com/watch?v=gjjKOUX-QCU&ab_channel=AutopistasanAbertiscompany)
+
+
+## Bibliografía y referencias
+•	Clicacoches.com [consulta 27/11/2021]. Aplicación móvil AWAI. https://www.clicacoches.com/aplicacion-movil-awai-pago-peaje-autopista/
+
+•	Autopistas.com [consulta 29/11/2021]. Una app que permite pagar la autopista con el móvil. https://www.autopistas.com/blog/awai-una-app-que-permite-pagar-la-autopista-con-el-movil/
+
+•	Lavanguardia.com [ consulta 2/12/2021]. Nueva app para pagar peajes en autopistas y beneficiarse de los descuentos. https://www.lavanguardia.com/economia/20201103/49172798495/nueva-app-pagar-peajes-autopistas-beneficiarse-descuentos-brl.html
+
+•	Manovich, L.(2013). [consulta 25/11/2021] El software toma el mando (Primera edición digital: diciembre 2013). Editorial UOC.
+
+•	Cegosuniversity [consulta 10/12/2021]. La historia de una startup española de éxito.  https://www.cegosonlineuniversity.com/wallapop-la-historia-de-una-startup-espanola-de-exito/
+
+•	thelemonapp.com. (7 de enero, 2017) [consulta 30/11/2021].  Cómo funciona Wallapop. Guía para principiantes. https://thelemonapp.com/blog/funciona-wallapop-guia-principiantes/
