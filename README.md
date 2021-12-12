@@ -5,7 +5,7 @@ Según Lev Manovich, la hibridación de medios es una unión de medios ya existe
 
 ¿Y cómo se pueden reconocer estas hibridaciones? Según lo expuesto en su libro “ El Software toma el mando”(2013) debemos investigar si es en si mismo una nueva manera de representación del medio o si ofrece una nueva experiencia cuando se produce la interacción con el mismo. 
 
-![enter image description here](https://imgur.com/ly14Mcj)
+![ ](https://i.imgur.com/ly14Mcj.png)
 
 ---
 # Caso 1 : Wallapop
@@ -17,7 +17,6 @@ En esta plataforma cuya oferta es la compra venta de proximidad mediante un chat
 Si lo pensamos bien, estamos siendo “más ecológicos” apoyando la economía circular con esa segunda vida que estamos destinando a todos estos aparatos y cachivaches que almacenamos en casa consiguiendo una retribución menor del precio original o mayor que este, depende de si es de alguna temática para coleccionistas o no.
 
 Otra funcionalidad que fue recientemente añadida para evitar el uso fraudulento fue el scoring: Valoraciones escritas y realizadas por usuarios y para usuarios, consiguiendo así la validación del perfil del vendedor y su fiabilidad.
-**offline!**
 
 ### ¿Cómo se utiliza Wallapop?
 
@@ -33,3 +32,31 @@ Si somos **usuarios de venta**, tenemos la opción de subir productos y acompañ
 El pago se puede hacer en efectivo o con Bizum.
 
 El motivo de que yo considere que es un ejemplo de hibridación es que Wallapop goza de  las características que convierten un medio en un híbrido, ser una combinación de medios ya existentes como las páginas web de segunda mano, mercadillos físicos, dispositivos electrónicos, geolocalización teniendo como resultado una nueva forma de comprar aquello que necesitas y vender lo que ya no, sin necesidad de intermediarios como Cash Converters, de una forma más libre y sin complicaciones.
+
+  
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jUczAzzzPNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+
+# Caso 2 : AWAI
+
+![Logo de Awai](https://play-lh.googleusercontent.com/89J9hODYnjWutYovdltJ1S5vKBrvxMlIvsOtJWUrktVl_JEhG9U6k68GKSSH7MaHzBFD)
+
+
+
+¿Os acordáis de cuando se tenían que hacer una espera interminable de largas colas para poder pagar el peaje en una autopista?
+
+Pues la empresa Autopistas,compañía del grupo Abertis, centrada desde sus inicios a mejorar la seguridad vial y potenciar el servicio de los conductores en la autopista, propone una solución con el fin de mejorar los desplazamientos diarios.
+
+Todo esto es posible gracias a AWAI, disponible para descargar en los sistemas IOS y Android. Esta app ofrece la máxima agilidad en el momento de pasar por un peaje, ya que nos permitirá pagar con el móvil. De momento está disponible para usarse en la autopista C-32 para el tramo Castellfedels- El Vendrell y permite obtener diferentes descuentos por recurrencia y alta ocupación.
+Este servicio se irá ampliando posteriormente a los diferentes peajes de la red de Autopistas.
+Esto es un claro indicativo de dar un paso más por parte de la compañía Autopistas apostando por la innovación en tecnologías nuevas y en la gestión de infraestructuras.
+
+Esta aplicación sustituye al clásico sistema de pago Via T, también conocido como Teletac, con la diferencia que el protagonista  como medio de pago aquí es tu móvil, a través de antenas Bluetooth situadas en la autopista.
+
+### ¿Es tan fácil de utilizar como lo pintan?
+Lo primero que tienes que hacer para utilizar AWAI es descargar la aplicación y  registrarte con tu información personal. Luego debes introducir los datos de la tarjeta bancaria y finalmente recibirás un SMS que validará tu registro. Para utilizar la aplicación es necesario que tengas activados los datos móviles 4G-5G, además del bluetooth para que se comunique con los receptores de la autopista  y ubicación en el dispositivo móvil. 
+
+A partir de ese momento, deja el móvil en el salpicadero y ten la app abierta para poder realizar el peaje de forma cómoda. En el momento de acercarte al peaje por las vías señalizadas con el símbolo de AWAI, la barrera se abre y en ese momento recibes el ticket en tu móvil. Es importante que vayas decelerando la velocidad para que le den tiempo a los sensores bluetooth de la autopista a detectar tu móvil.
+
+Creo que según las gafas de Manovich también goza de la hibridación porque proviene de medios ya existentes como el sistema Teletac, los dispositivos electrónicos y la tecnología bluetooth convirtiéndose en una forma de pago más cómoda y sin contactos y que poco a poco se va a ir expandiéndose  de la misma forma que lo hizo el Teletac en su momento. Yo la he probado de primera mano y da una tranquilidad enorme y te despreocupa en todo momento, en caso de que no se levante la barrera, le das con el click al menú de la aplicación y sigues tu ruta como si nada.
